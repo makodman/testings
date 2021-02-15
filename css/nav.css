@@ -1,0 +1,16 @@
+.nav-main ul {
+    display:flex;
+    color: #DCA53D;
+}
+
+.nav-main li {
+    margin-left: .5em;
+}
+
+.nav-main a {
+    color: #000;
+}
+
+.nav-main a:hover {
+    text-decoration: underline;
+}
